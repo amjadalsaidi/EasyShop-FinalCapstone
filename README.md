@@ -10,7 +10,7 @@ This E-Commerce API is like the engine running behind an online store. It's buil
 First off, you can use it to find products easily. And find specific category, also You can filter products based on their category to help  you quickly locate what you need . If you Looking for something within a certain price range  This API can   set a price range to narrow down your search. And if color matters to you, You can search for products by their color too
 
 
-Here I added method getById which will get the data from the db,
+Here I added a method getById which will get the data from the db,
 in this case it will get the category id
 ![MySCDAo getByID.png](MySCDAo%20getByID.png)
 
