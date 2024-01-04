@@ -20,7 +20,6 @@ import org.springframework.http.HttpStatus;
 // add annotation to allow cross site origin requests
 
 @RestController
-//@RequestMapping("/categories")
 @CrossOrigin
 
 public class CategoriesController
