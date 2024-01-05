@@ -27,4 +27,7 @@ Here it was BugOne Where I have to change the Where Statement for the Price
 Here it was BugTwo where I have to change the create Function to the update Function. 
 ![BugTwo.png](BugTwo.png)
 
+Kudos 
+Thanks to Raymond for being the best instructor I ever meet!
+
 
