@@ -18,9 +18,9 @@ Here where I used getById function to get the data using the URL
 ![CController Get.png](CController%20Get.png)
 
 
-Here tt was BugOne Where I have to change the Where Statement for the Price
+Here it was BugOne Where I have to change the Where Statement for the Price
+![Bug One `.png](Bug%20One%20%60.png)
 
-![BUG1--.png](BUG1--.png)
 
 
 
